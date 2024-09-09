@@ -72,16 +72,6 @@ This project was inspired by the **Swachh Bharat Mission**, which encourages cle
 - **Increased Hygiene**: Contactless disposal promotes cleanliness and minimizes the spread of germs.
 - **Efficient Resource Usage**: Low power consumption and affordable hardware make this a scalable solution for larger areas.
 
-## Screenshots
-
-- **Circuit Diagram**
-
-  ![Circuit Diagram](media/circuit_diagram.png)
-
-- **Smart Dustbin Prototype**
-
-  ![Smart Dustbin Model](media/smart_dustbin_model.jpg)
-
 ## Future Enhancements
 
 - **Waste Segregation**: Introduce separate compartments for wet and dry waste.
